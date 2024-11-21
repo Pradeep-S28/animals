@@ -4,3 +4,5 @@ Scout
 Rocket
 Stevie
 Chicks
+Monty
+Mocha
